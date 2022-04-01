@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jetson-nano-monitor",
+  "private_key_id": "197361af2ebcbf07630327222e1325090811d50d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXMrs94XAC0ltK\nLvTBVW0m0knshSgkMtnGPx+FnTc5YUQ8z2sL+z5atXDHejhsgwaLrF0VOFhC5szD\nkcnx3wG/RiMl588HSvuSbXBOOxLSuY0aPZ/aAxjrKCmR63ltMqfBpceQ/CFbPSof\nOG2yPGA6O3bkmpk6Arvl/7amY4cJVlA3d/XTEd2Zp8QYYYDEzrWSsjsCYharjB4p\n3WP4gf5rjwdfyr/cNILugog4EMyGMlTetP5TkYzUuK9fDb8XwYpETk5Na4BDMUBn\nuRsjZ0eiFKnJCxeOuLAyeCR3cTX9XV27P+VwHZ2g0he6pkvvCR4eOY22QXbtZCZD\nchgxIcRVAgMBAAECggEAJ5qvxh07eFm+dNeI3+1u+mjB2VTlt1mkhpO5P4f3U63h\nMGaKXSiR5DO7l1yx0+acO9DJzwmjwN5wy1dwRM1LyVznTwIBziC7ddb5wFwj6ZOV\n3MZAjVwbVll+Tg0WkN5gZ85zUExitmH2mxfuT+4VrJsv4OCH+1SFAFFzd/EBCZYt\nkSyOVvGVnRXPCObyfGShyw6mOPAcQBgIOebFoAclL/65PfA7EEQDkt3aGx+1n6ix\nETDbSyUW8oNsCWAsDIXrNBh8k8BgopuP4BNYSDO0VOMkfoTnM4GZFm9qAhoFCfI4\ndIonF7MX9YY+ssQQfW1vP/A2T+VuM0+36qWk+jsprwKBgQDQDMjXA4B1qGancCRh\n+u9kIT99Gufg4pemZocWbSw16W6O4A+Z8uNLNkPey+mJ2SMWCTOuszjsJSeu2VYI\na9nca0dTI0fsZ5wDD4H31rjf2S7Gb/5h3Y1Pcl+A06ZsAtIOBo0uaJZDNv0t53u7\n83V+ETZ3sBinGB4S0PX6UDA+YwKBgQC6C55ymwveahI/LVXgi4kD4vFTHNKlvzpF\nC7OLabIAJU+kyZZA/jdiOQ4N1oOTAW5oa4VvRW6o8ECi6vyzff8ccrU79P99iJcp\n44rFU3d/AKg/eBPCm520i3Ja8oI+ZU0B3WLPdW7bSatVUOCAd1Lsa8aag9F3YcK6\ndvkAdxFz5wKBgQC1frGmgPOLsMD8yKO0pgg4vZh5NwOZ95J8I20tb0fmMCG2mliB\n4JXQgyJqNlEhZD9rddOUT90UhMU9j3OyHQQNebjbGiggX7KGKP0kjDjzbq+ThRfR\noEkqSYhvBjRkfYFpouV+2tZbBJmRdiNHL3gL5lAx0XlwK2Xw3EH5gALWKQKBgDVI\nsp68TU/sLUGu6FOhYyKb0uYs8R/LfxLbYRbitLpZ9U+K9N+0b4RQNvg7of9uf4Kk\nmNjfl+wGs1x11N5Ljc9GAyYi6zG29yRmKQ6O80CKnaVf7Ljl/OsCrUPjBO598OpB\nz9T/GzrvBIUw3ruscTGJRJ5odouskir5fCNn9rWtAoGAUxifYKXMmbaxrz8zi0qR\nux58d+QM+CUEAJ2MbwLGFM7iPCLzCDBwaw2exwBOLfqd06inD3N+MDS0fs4qorYY\nSJq9iQheOQaCyr7w8qNK2x5A+umdB/8YtxKObbHfdwLgjMYV3yuz9tnaNd+GP5+K\nhs96F8Q+PhpU6PZuq7JQ5bs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-b8yck@jetson-nano-monitor.iam.gserviceaccount.com",
+  "client_id": "103107479942429376452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-b8yck%40jetson-nano-monitor.iam.gserviceaccount.com"
+}
